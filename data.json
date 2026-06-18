@@ -149,7 +149,13 @@
      "name": "crimsone-chan",
       "user-id": "F8B6C8CF1A444EC3",
       "discord-id": "1505252342566490363"
+    },
+     {
+     "name": "Larp",
+      "user-id": "621C2851D942720B",
+      "discord-id": "1162848879427997856"
     }
+    
   ],
   "super-admins": [
     "kingofnetflix",
@@ -168,7 +174,7 @@
     "Sprinkle",
     "1x1x1x1VR123",
     "DeadAndGone5154",
-    "crimsone-chan"
+    "crimsone-chan",
   ],
   "april_fools": {
     "sex": false
