@@ -56,11 +56,6 @@
       "discord-id": "311503550951981056"
     },
     {
-      "name": "Twig",
-      "user-id": "F11FF07F6E028B08",
-      "discord-id": "738573735895892050"
-    },
-    {
       "name": "kingofnetflix",
       "user-id": "19CC01E8F0B98F01",
       "discord-id": "1479765842131681350"
@@ -159,6 +154,11 @@
      "name": "Lexi",
       "user-id": "ECA1FAD872EC5EF3",
       "discord-id": "1361940738828664945"
+    },
+     {
+     "name": "Twig",
+      "user-id": "2B3F91D308F7100F",
+      "discord-id": "1505252342566490363"
     }
     
   ],
